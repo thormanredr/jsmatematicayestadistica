@@ -26,3 +26,4 @@ function calcularPrecioConDescuento() {
 
   pResult.innerText = 'El nuevo precio con descuento es $' + newPrice;
 }
+//(precio * (100-descuento)) / 100= resultado
